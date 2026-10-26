@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# Local-only course material (copyrighted, not part of the project)
+course-material/
+
+# Personal Claude Code config
+CLAUDE.local.md
+
+# Spyder
+.spyproject/
